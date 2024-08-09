@@ -6,7 +6,7 @@ resources:
 
 images:
   - name: coetest2.azurecr.io/backend-java # 이미지 주소 변경필요
-    newTag: main.20240809051244
+    newTag: main-20240809065331
 
 commonLabels:
   app: backend-java
